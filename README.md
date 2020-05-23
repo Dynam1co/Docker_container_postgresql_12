@@ -1,4 +1,4 @@
-# Docker_container_postgresql_12
+# Docker container with Ubuntu 20.04 and PostgreSql 12
 Docker container with Ubuntu 20.04 and Postgre SQL 12
 
 ## Instructions to create image and run
